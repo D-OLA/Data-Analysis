@@ -10,3 +10,9 @@ Cleaning
 
 Analysis
 *Create column for Loan to Income ratio for range of consideration criteria
+*Create new column representing approved as 2 and dissapproved as 0.5
+*Groupby reasons [approval]..... stat analysis ---- best reasons for loans
+*Use Covariance xand correlation for DTI and LTI..... then credit score
+*take sample population using sliceing & np choices and analyze LTI DTI against approval  
+
+
